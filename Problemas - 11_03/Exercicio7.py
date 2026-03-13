@@ -1,0 +1,6 @@
+n1 = float(input())
+n2 = float(input())
+n3 = float(input())
+soma = (n1*2)+(n2*3)+(n3*5)
+MediaPonderada = soma/(2+3+5)
+print(f"MEDIA = {MediaPonderada:.1f}")
