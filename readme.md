@@ -139,5 +139,5 @@ git clone https://github.com/AlyssonAntonio/Algoritmo-e-Programa-o1----python.gi
 cd Exercicios/Problemas_11_03
 
 # Execute o arquivo Python
-python nome_do_arquivo.py
+python3 nome_do_arquivo.py
 ```
