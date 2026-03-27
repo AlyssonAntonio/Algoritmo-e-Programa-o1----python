@@ -30,7 +30,10 @@ Ainda faltam algumas melhorias, como adicionar descrições mais detalhadas nos 
 │   ├── Problemas_12_03/
 │   ├── Problemas_13_03/
 │   ├── Problemas_16_03/
-│   └── Problemas_18_03/
+│   ├── Problemas_18_03/
+|   ├── Problemas 23_03/
+|   ├── Problemas 25_03/
+|   └── Problemas 26_03/
 ├── Anotacoes/
 └── Projetos/
 
@@ -139,5 +142,5 @@ git clone https://github.com/AlyssonAntonio/Algoritmo-e-Programa-o1----python.gi
 cd Exercicios/Problemas_11_03
 
 # Execute o arquivo Python
-python3 nome_do_arquivo.py
+python nome_do_arquivo.py
 ```
